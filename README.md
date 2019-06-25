@@ -33,7 +33,9 @@
 
 * Pull Request 提交本人作品至官方仓库
 
-* 加入官方QQ群或论坛https://rtcdeveloper.com ， 获取任何问题的答案
+* 加入官方QQ群:680293067
+
+* 论坛https://rtcdeveloper.com ， 获取任何问题的答案
 
 PS：在本人作品文件夹内，须包含参赛作品的readme文件，内容包括作品介绍、团队介绍、联系方式、编译指南
 
